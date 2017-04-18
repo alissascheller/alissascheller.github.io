@@ -1,7 +1,7 @@
 .header-container {
 	max-width: 1000px;
 	width: 60%;
-	margin: 5% auto 0% auto;
+	margin: 10% auto 0% auto;
 }
 
 
@@ -120,7 +120,8 @@ h2 a:hover {
 
 #project_list {
 	width: 70%;
-	margin: 3rem 15% 10% 15%;
+	max-width: 900px;
+	margin: 3rem auto 10% auto;
 }
 
 .project {
@@ -223,6 +224,7 @@ body {
 
 .header-container {
 	width: 90%;
+	margin-top: 20%;
 }
 
 
@@ -245,8 +247,12 @@ body {
 	display:block;
 	margin: 3rem auto;
 	border-bottom: 1px solid #ccc;
-	padding-bottom: 10px;
+	padding-bottom: 3rem;
 }
+
+.project_desc {
+	text-align:center;
+	}
 
 	}
 
