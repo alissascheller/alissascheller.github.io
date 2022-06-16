@@ -6,7 +6,8 @@
 
 
 h1 {
-	font-family: 'Sail', cursive;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
 	font-size: 5.5em;
 	line-height: .8em;
 	text-align: center;
