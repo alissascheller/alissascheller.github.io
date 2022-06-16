@@ -145,6 +145,8 @@ h2 a:hover {
 	text-align: center;
 	margin-top: 5rem;
 	color: #404040;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 .project_name {
@@ -154,6 +156,8 @@ h2 a:hover {
 	text-align: center;
 	margin-top: 7rem;
 	color: #404040;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 .project_desc {
