@@ -140,7 +140,7 @@ h2 a:hover {
 
 .header {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-weight: 300;
+	font-weight: 700;
 	font-size: 5em;
 	text-align: center;
 	margin-top: 5rem;
@@ -149,9 +149,17 @@ h2 a:hover {
 	text-decoration: none;
 }
 
+.header a {
+	text-decoration: none;
+}
+
+.header a:hover {
+	text-decoration: none;
+}
+
 .project_name {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-weight: 300;
+	font-weight: 700;
 	font-size: 3em;
 	text-align: center;
 	margin-top: 7rem;
