@@ -54,6 +54,8 @@ h2 a:hover {
 
 .intro-container {
 	margin: 3rem auto 5rem auto;
+	max-width: 600px;
+	width: 80%;
 }
 
 .intro {
