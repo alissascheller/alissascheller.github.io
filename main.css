@@ -154,14 +154,17 @@ h2 a:hover {
 
 .header a {
 	text-decoration: none;
+	color: #000000;
 }
 
 .header a:hover {
 	text-decoration: none;
+	color: #000000;
 }
 
 .header a:visited {
 	text-decoration: none;
+	color: #000000;
 }
 
 .project_name {
@@ -267,6 +270,15 @@ body {
 		margin: auto;
 }
 }
+
+p {
+	color: #404040;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	font-size: 1.2em;
+	line-height: 1.7em;
+}
+
 
 @media (max-width: 1200px) {
 
