@@ -54,7 +54,7 @@ h2 a:hover {
 
 .intro-container {
 	margin: 3rem auto 5rem auto;
-	max-width: 900px;
+	max-width: 1000px;
 	width: 80%;
 }
 
@@ -122,8 +122,8 @@ h2 a:hover {
 }
 
 #project_list {
-	width: 70%;
-	max-width: 900px;
+	width: 100%;
+	max-width: 1000px;
 	margin: 3rem auto 10% auto;
 }
 
@@ -136,8 +136,8 @@ h2 a:hover {
 }
 
 .project_img {
-	width: 80%;
-	margin: 0 10%;
+	width: 100%;
+	margin: 0;
 	border: 1px solid #ccc;
 }
 
@@ -182,8 +182,8 @@ h2 a:hover {
 	color: #404040;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 300;
-	font-size: 1em;
-	line-height: 1.5em;
+	font-size: 1.2em;
+	line-height: 1.7em;
 
 }
 
